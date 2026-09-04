@@ -1,35 +1,4 @@
-Skip to content
-hariharan2006star
-External-Interrupt-and-Timer-Interrupt-using-Arduino-uno
-Repository navigation
-Code
-Pull requests
-Agents
-Actions
-Projects
-Security and quality
-Insights
-Files
-Go to file
-t
-T
-LICENSE
-README.md
-External-Interrupt-and-Timer-Interrupt-using-Arduino-uno
-/README.md
-hariharan2006star
-hariharan2006star
-Update README.md
-414e577
- · 
-5 days ago
 
-Preview
-
-Code
-
-Blame
-126 lines (87 loc) · 3.54 KB
 # EXTERNAL INTERRUPT AND TIMER INTERRUPT USING ARDUINO UNO
 
 ## EXP 6: EXTERNAL INTERRUPT AND TIMER INTERRUPT USING ARDUINO UNO
